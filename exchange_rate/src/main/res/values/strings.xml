@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Exchange Rate</string>
+    <string name="nbu_title">NBU</string>
+    <string name="view_navigation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
+    <string name="usd">USD</string>
+    <string name="eur">EUR</string>
+    <string name="rub">RUB</string>
+    <string name="message_1">Try again later, possibly with internet problems</string>
+    <string name="buy">BUY:</string>
+    <string name="rate">RATE:</string>
+    <string name="sale">SALE:</string>
+    <string name="refresh">Refresh</string>
+    <string name="source">Source</string>
+    <string name="settings">Settings</string>
+</resources>
